@@ -1,5 +1,5 @@
 <h1>Hi there👋, I'm Carlos Daniel Londoño</h1>
-<h3>I am Software Developer👨🏾‍💻& Computer Science Student 💻📚</h3>
+<h3>I'm Software Developer👨🏾‍💻& Computer Science Student 💻📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdlavila&label=Profile%20views&color=0e75b6&style=flat" alt="cdlavila" /> </p>
 
