@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Adomi Delivery](https://adomi.app)
 
-- 🌱 I’m currently finishing my degree in Computer Science**
+- 🌱 I’m currently finishing my degree in Computer Science
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/cdlavila?tab=repositories)
 
