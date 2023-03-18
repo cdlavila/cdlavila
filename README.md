@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdlavila&label=Profile%20views&color=0e75b6&style=flat" alt="cdlavila" /> </p>
 
-- 🔭 I’m currently working on [Adomi Delivery](https://adomi.app)
+- 🔭 I’m currently working on [Soluntech](https://www.soluntech.com)
 
 - 🌱 I’m currently finishing my degree in Computer Science
 
