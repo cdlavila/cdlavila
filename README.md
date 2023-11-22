@@ -16,8 +16,6 @@
 <a href="https://twitter.com/cdlavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cdlavila" height="30" width="40" /></a>
 <a href="https://facebook.com/cdlavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cdlavila" height="30" width="40" /></a>
 <a href="https://instagram.com/cdlavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdlavila" height="30" width="40" /></a>
-<a href="https://wa.me/573205821741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="cdlavila" height="30" width="40" /></a>
-<a href="https://t.me/cdlavila" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="cdlavila" height="30" width="40" /></a>
 </p>
 </p>
 
