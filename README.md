@@ -1,11 +1,7 @@
 <h1>Hi there👋, I'm Carlos Daniel Londoño</h1>
-<h3>I'm Software Developer👨🏾‍💻& Computer Science Student 💻📚</h3>
+<h3>I'm Software Engineer👨🏾‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdlavila&label=Profile%20views&color=0e75b6&style=flat" alt="cdlavila" /> </p>
-
-- 🔭 I’m currently working on [Soluntech](https://www.soluntech.com)
-
-- 🌱 I’m currently finishing my degree in Computer Science
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/cdlavila?tab=repositories)
 
